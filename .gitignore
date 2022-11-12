@@ -6,6 +6,16 @@ __pycache__/
 # C extensions
 *.so
 
+#Data
+Country_Year_V-Dem_Core_CSV_v12/  
+ESGCountry.csv   
+ESGSeries-Time.csv  
+__MACOSX/                            
+ESGData.csv      
+ESGSeries.csv       
+ESGCountry-Series.csv            
+ESGFootNote.csv  
+
 # Distribution / packaging
 .Python
 build/
